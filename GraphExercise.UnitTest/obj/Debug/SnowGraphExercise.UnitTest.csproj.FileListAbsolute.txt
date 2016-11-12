@@ -1,0 +1,11 @@
+C:\Users\ugur.yilmaz\Documents\Visual Studio 2013\Projects\SnowGraphExercise\SnowGraphExercise.UnitTest\bin\Debug\SnowGraphExercise.UnitTest.dll
+C:\Users\ugur.yilmaz\Documents\Visual Studio 2013\Projects\SnowGraphExercise\SnowGraphExercise.UnitTest\bin\Debug\SnowGraphExercise.UnitTest.pdb
+C:\Users\ugur.yilmaz\Documents\Visual Studio 2013\Projects\SnowGraphExercise\SnowGraphExercise.UnitTest\bin\Debug\SnowGraphExercise.exe
+C:\Users\ugur.yilmaz\Documents\Visual Studio 2013\Projects\SnowGraphExercise\SnowGraphExercise.UnitTest\bin\Debug\DataOperations.dll
+C:\Users\ugur.yilmaz\Documents\Visual Studio 2013\Projects\SnowGraphExercise\SnowGraphExercise.UnitTest\bin\Debug\DataModel.dll
+C:\Users\ugur.yilmaz\Documents\Visual Studio 2013\Projects\SnowGraphExercise\SnowGraphExercise.UnitTest\bin\Debug\SnowGraphExercise.pdb
+C:\Users\ugur.yilmaz\Documents\Visual Studio 2013\Projects\SnowGraphExercise\SnowGraphExercise.UnitTest\bin\Debug\DataOperations.pdb
+C:\Users\ugur.yilmaz\Documents\Visual Studio 2013\Projects\SnowGraphExercise\SnowGraphExercise.UnitTest\bin\Debug\DataModel.pdb
+C:\Users\ugur.yilmaz\Documents\Visual Studio 2013\Projects\SnowGraphExercise\SnowGraphExercise.UnitTest\obj\Debug\SnowGraphExercise.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\ugur.yilmaz\Documents\Visual Studio 2013\Projects\SnowGraphExercise\SnowGraphExercise.UnitTest\obj\Debug\SnowGraphExercise.UnitTest.dll
+C:\Users\ugur.yilmaz\Documents\Visual Studio 2013\Projects\SnowGraphExercise\SnowGraphExercise.UnitTest\obj\Debug\SnowGraphExercise.UnitTest.pdb
